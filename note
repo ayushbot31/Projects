@@ -1,0 +1,8 @@
+1.	Developed a Real-time white-board notepad that allows the user to create, edit and save notes.
+2.	Features including pencil with three different colours, eraser, sticky-notes, insert image, download board.
+3.	Undo and Redo features for the board using arrays as a stack by storing coordinates.
+
+
+this project uses technologies like : JavaScript , HTML , CSS
+
+helpful project for learning and implementing javaScript.
